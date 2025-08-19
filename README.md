@@ -13,4 +13,4 @@ You will be required to fix your microphone input and your speaker output when i
 
 All videos are stored in "C:\RefractionVR-OBS\recordings". You can change this if you prefer to have your videos elsewhere. 
 
-
+I have made a simple tutorial on how to install this with the main repository of OBS, the same video can be used for my fork. https://www.youtube.com/watch?v=GvtBuNfCzUA
