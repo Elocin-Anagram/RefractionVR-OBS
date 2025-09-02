@@ -1,14 +1,9 @@
-# RefractionVR-OBS
-Portable Version of OBS for recording. Has UTC unix time clock. Makes audio/timeline markers on chan 6, and makes 4 minute clips with hotkey page down. 
-RecordS video at 720P at 30 FPS
-Instructions:
-1. Download file RefractionVR-OBS, and place file in C:\
-2. Open file RefractionVR-OBS and copy shortcut Refraction_OBS - Shortcut then paste shortcut on desktop.
-3. Open shortcut on desktop, and then go to settings output recording tab and change your recording path to your desired location. Click apply and then OK.
-4. Close obs, and then reopen obs shortcut.
+After five years of perfecting how I document and report issues, I've come to believe that solid documentation and reporting systems are essential for any moderation team. All too often, people rely on hearsay, but I've learned that just because someone tells you something doesn't make it true. People will lie for personal gain. My skepticism, developed at a young age, taught me to demand and scrutinize evidence to ensure information is true beyond a shadow of a doubt. This is precisely why I created RefractionVR OBS. It's a portable, pre-configured version of OBS that empowers me and other moderators to gather the undeniable proof we need to do our jobs effectively.
 
-I specifically design this portable version for moderating in VRchat. I want to make it easy to document and report issues in VRchat.
+If you're a VRChat user, and or on a VRChat Instance moderation team, you should consider installing RefractionVR OBS because it's the ultimate tool for capturing and reporting in-game incidents with irrefutable evidence. The moment you launch it, a script automatically parses your VRChat logs to display your location and the instance type on-screen, so you always have a precise record of where and when something happened. The replay buffer immediately starts, ready for you to press the Page Down key on your physical or virtual keyboard to instantly save a 4-minute clip of the last four minutes of your gameplay. This simple hotkey also inserts a timeline marker with an audible cue, making it easy to find and edit the clip for context.
 
+One of the most powerful features I've built into RefractionVR OBS is the separated audio tracks. Have you ever had trouble hearing what someone said because everyone was talking at once? When you bring your recorded video into an editing program like DaVinci Resolve, you can listen to each audio track individually, ensuring you catch every single detail. Once you have your clip, you can use a free tool like Clipchamp to quickly edit it down to the most crucial moments and submit it directly to VRChat's Trust and Safety team, giving them all the context they need to take action.
 
-GitHub said my project was too large, so I had to upload it to Google Drive. Here's the link:
-https://drive.google.com/file/d/1R-Xuj_3yGC9kBidkXKO86Dz2ncss3vIa/view?usp=drive_link
+Everything I've created for RefractionVR OBS is open source, with the exception of one compiled PowerShell script, which I've intentionally included in its uncompiled form so you can inspect and modify it yourself. I built this tool for myself, and my team, but I'm sharing it so that every VRChat user has the ability to document and report issues with the same level of clarity and evidence that I do.
+
+<img width="1913" height="1032" alt="image" src="https://github.com/user-attachments/assets/237016d8-817a-4652-9b69-7329f4f906dc" />
